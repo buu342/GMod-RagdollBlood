@@ -37,7 +37,7 @@ sv_ragdollblood_whitebloodblacklist
 **A:** Use the sv_ragdollblood_enable convar, or disable it via the Q menu (check the screenshots).</br></br>
 
 **Q:** NPC corpses don't bleed!</br>
-**A:** Enable keep corpses.</br></br>
+**A:** Enable keep corpses. Hold C, click "NPCs" on the top left, and enable "Keep Corpses".</br></br>
 
 **Q:** Player corpses don't bleed!</br>
 **A:** Get an addon that enables [https://steamcommunity.com/sharedfiles/filedetails/?id=769747007](serverside corpses).</br></br>
