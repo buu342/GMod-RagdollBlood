@@ -49,7 +49,7 @@ sv_ragdollblood_whitebloodblacklist
 **A:** Add it to the blacklist.</br></br>
 
 **Q:** Will this work on servers?</br>
-**A:** Yes, as long as the servers have it in their addons.</br></br></br>
+**A:** Yes, as long as the servers have it in their addons.</br></br>
 
 ## Known Bugs
 None
