@@ -34,7 +34,7 @@ sv_ragdollblood_whitebloodblacklist
 
 ## FAQ
 **Q:** How do I disable this addon?</br>
-**A:** Use the sv_ragdollblood_enable convar, or disable it via the Q menu (check the screenshots).</br></br>
+**A:** Use the sv_ragdollblood_enable convar, or disable it via the Q menu, Options, Ragdoll Blood Settings, Server.</br></br>
 
 **Q:** NPC corpses don't bleed!</br>
 **A:** Enable keep corpses. Hold C, click "NPCs" on the top left, and enable "Keep Corpses".</br></br>
